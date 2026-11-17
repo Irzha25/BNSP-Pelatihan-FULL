@@ -1,0 +1,19 @@
+/* Pengaturan dasar global. Seluruh gaya tampilan ada di App.css. */
+:root {
+  font-size: 18px;
+  line-height: 145%;
+  letter-spacing: 0.18px;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+}
